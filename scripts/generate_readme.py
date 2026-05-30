@@ -75,41 +75,55 @@ def escape_description(text: str) -> str:
     return re.sub(r"\s+", " ", text.strip())
 
 
+def format_repo_line(star: dict) -> str:
+    name = star["full_name"]
+    url = star["html_url"] or f"https://github.com/{name}"
+    description = escape_description(star["description"])
+    if description:
+        return f"- [{name}]({url}) - {description}"
+    return f"- [{name}]({url})"
+
+
+def render_month_section(
+    lines: list[str],
+    month: str,
+    month_stars: list[dict],
+    *,
+    heading_level: int,
+) -> None:
+    heading = "#" * heading_level
+    lines.extend([f"{heading} {month}", ""])
+    for star in sorted(month_stars, key=lambda item: item["starred_at"], reverse=True):
+        lines.append(format_repo_line(star))
+    lines.append("")
+
+
 def build_readme(stars: list[dict]) -> str:
     grouped: dict[str, list[dict]] = defaultdict(list)
     for star in stars:
         grouped[month_key(star["starred_at"])].append(star)
 
     months = sorted(grouped.keys(), reverse=True)
+    current_year = datetime.now(timezone.utc).strftime("%Y")
 
-    lines = [
-        "# GitHub Stars",
-        "",
-        "## Contents",
-        "",
-    ]
+    lines = ["# GitHub Stars", ""]
+    years: dict[str, list[str]] = defaultdict(list)
 
     for month in months:
-        lines.append(f"- [{month}](#{month}) ({len(grouped[month])})")
+        years[month[:4]].append(month)
 
-    lines.append("")
+    for year in sorted(years.keys(), reverse=True):
+        year_months = years[year]
+        if year == current_year:
+            for month in year_months:
+                render_month_section(lines, month, grouped[month], heading_level=2)
+            continue
 
-    for month in months:
-        lines.extend([f"## {month}", ""])
-        month_stars = sorted(
-            grouped[month],
-            key=lambda item: item["starred_at"],
-            reverse=True,
-        )
-        for star in month_stars:
-            name = star["full_name"]
-            url = star["html_url"] or f"https://github.com/{name}"
-            description = escape_description(star["description"])
-            if description:
-                lines.append(f"- [{name}]({url}) - {description}")
-            else:
-                lines.append(f"- [{name}]({url})")
-        lines.append("")
+        year_count = sum(len(grouped[month]) for month in year_months)
+        lines.extend([f"<details>", f"<summary>{year} ({year_count})</summary>", ""])
+        for month in year_months:
+            render_month_section(lines, month, grouped[month], heading_level=3)
+        lines.extend(["</details>", ""])
 
     return "\n".join(lines).rstrip() + "\n"
 

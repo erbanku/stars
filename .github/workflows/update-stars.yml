@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: erbanku/stars-action@v1
+      - uses: erbanku/action-stars@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 

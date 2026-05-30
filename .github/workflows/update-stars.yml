@@ -3,10 +3,6 @@ name: update stars
 on:
   workflow_dispatch:
     inputs:
-      username:
-        description: GitHub username
-        required: false
-        default: erbanku
       custom_message:
         description: Custom commit message
         required: false
@@ -24,15 +20,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - uses: erbanku/stars-action@v1
         with:
-          python-version: "3.12"
-
-      - name: Generate README
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OUTPUT_PATH: README.md
-        run: python scripts/generate_readme.py
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
         env:

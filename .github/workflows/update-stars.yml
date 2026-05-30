@@ -20,10 +20,16 @@ jobs:
         steps:
             - uses: actions/checkout@v4
 
-            - uses: erbanku/action-stars-next@v1
+            - uses: actions/setup-python@v5
               with:
-                  token: ${{ secrets.GITHUB_TOKEN }}
-                  include-license-footer: "true"
+                  python-version: "3.12"
+
+            - name: Generate README
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  OUTPUT_PATH: README.md
+                  INCLUDE_LICENSE_FOOTER: "true"
+              run: python scripts/generate_readme.py
 
             - name: Commit and push
               env:

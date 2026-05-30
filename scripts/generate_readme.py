@@ -53,7 +53,7 @@ def fetch_starred(token: str) -> list[dict]:
         for item in payload:
             repo = item.get("repo") or {}
             starred_at = item.get("starred_at")
-            if not starred_at:
+            if not starred_at or repo.get("private"):
                 continue
 
             stars.append(

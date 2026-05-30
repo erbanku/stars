@@ -4,10 +4,10 @@
 
 ## 2026-05 (82)
 
+- [erbanku/action-stars-next](https://github.com/erbanku/action-stars-next) - GitHub Action to generate starred repositories README grouped by month
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 - [codeman008/Excellent_person_blog](https://github.com/codeman008/Excellent_person_blog) - 计算机相关优秀的个人博客：C++，AI，java，前端，ios
-- [A95014/.agents](https://github.com/A95014/.agents)
 - [UdaraJay/tiny-router](https://github.com/UdaraJay/tiny-router) - Compact multi-head text classifier for short, domain-neutral routing decisions.
 - [remorses/holocron](https://github.com/remorses/holocron) - Open source drop-in replacement for Mintlify as a Vite plugin
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -137,7 +137,7 @@
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-## 2026-03 (56)
+## 2026-03 (54)
 
 - [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 - [memohai/Memoh](https://github.com/memohai/Memoh) - ✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc.
@@ -155,7 +155,6 @@
 - [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 - [cursor/plugin-template](https://github.com/cursor/plugin-template)
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec
-- [VOLT-BOX/fastapi](https://github.com/VOLT-BOX/fastapi) - The core backend engine powering VoltIQ Knowledge Base
 - [nexmoe/cursor-themes-for-zed](https://github.com/nexmoe/cursor-themes-for-zed) - A Zed port of Cursor's theme family, including Cursor Dark, Cursor Dark Midnight, Cursor Dark High Contrast, and Cursor Light. Converted from the original VS Code themes with matching editor UI, syntax highlighting, and terminal colors.
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -174,7 +173,6 @@
 - [Finesssee/Win-CodexBar](https://github.com/Finesssee/Win-CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. But for Window-Native
 - [khnfrhn/tokenbar](https://github.com/khnfrhn/tokenbar)
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-- [VOLT-BOX/dify](https://github.com/VOLT-BOX/dify) - Upstream: https://github.com/langgenius/dify
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [amio/npmjs.dev](https://github.com/amio/npmjs.dev) - Fiddle with npm packages in browser
 - [bjesuiter/codex-switcher](https://github.com/bjesuiter/codex-switcher) - Switch pi, codex and opencode auth between multiple openAI Plus and Pro accounts
@@ -273,7 +271,7 @@
 - [Gouryella/drip](https://github.com/Gouryella/drip) - Self-hosted tunneling solution to expose localhost securely - unlimited bandwidth, no third-party servers
 
 <details>
-<summary>2025 (261)</summary>
+<summary>2025 (260)</summary>
 
 ### 2025-12 (66)
 
@@ -384,7 +382,7 @@
 - [jpawlowski/openvpn-als-applications](https://github.com/jpawlowski/openvpn-als-applications) - svn clone from openvpn-als.svn.sourceforge.net
 - [linode/linode-cli](https://github.com/linode/linode-cli) - The official Linode command line interface.
 
-### 2025-10 (41)
+### 2025-10 (40)
 
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [langgenius/dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon)
@@ -408,7 +406,6 @@
 - [brealinxx/LarkTaskExport](https://github.com/brealinxx/LarkTaskExport) - 一个简单的可以导出飞书「任务」栏中的「清单任务」下面的任务为 Excel 的工具
 - [WoodGoose/awesome-cow-plugins](https://github.com/WoodGoose/awesome-cow-plugins) - 这个仓库主要是收集CoW(chatgpt-on-wechat)与DoW(dify-on-wechat)的插件，欢迎补充加入看到、用过或新开发的插件。
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-- [VOLT-BOX/management](https://github.com/VOLT-BOX/management) - RuoYi document management rapid development framework with Java
 - [KoljaB/Linguflex](https://github.com/KoljaB/Linguflex) - Command Your World with Voice
 - [KoljaB/TurnVoice](https://github.com/KoljaB/TurnVoice) - Voice Transformation for Videos. 🎤👄🎬
 - [esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view) - Interactive map view for Obsidian.md
@@ -735,7 +732,7 @@
 </details>
 
 <details>
-<summary>2023 (317)</summary>
+<summary>2023 (312)</summary>
 
 ### 2023-12 (14)
 
@@ -788,14 +785,11 @@
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
 
-### 2023-08 (9)
+### 2023-08 (6)
 
-- [erbanku/course-notes-template-thu](https://github.com/erbanku/course-notes-template-thu) - Course Notes Template for My School Academic Affairs
 - [qxchuckle/vsc-cec-ide](https://github.com/qxchuckle/vsc-cec-ide) - 一个没什么用的VSC插件
-- [tsinghua-uni/stis-thu-2023c](https://github.com/tsinghua-uni/stis-thu-2023c) - 2023C Smart Things and Intelligent System - 智能硬件与智能系统
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 - [bitrise-io/envman](https://github.com/bitrise-io/envman) - Environment variable manager
-- [tsinghua-uni/information-science-2023c](https://github.com/tsinghua-uni/information-science-2023c) - 2023C 信息科学理论与实践（10340022-1）
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
 - [233boy/Xray](https://github.com/233boy/Xray) - 最好用的 Xray 一键安装脚本 & 管理脚本
 - [tao12345666333/radicale](https://github.com/tao12345666333/radicale)
@@ -912,7 +906,7 @@
 - [receyuki/stable-diffusion-prompt-reader](https://github.com/receyuki/stable-diffusion-prompt-reader) - A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
 - [Moksh-Bhardwaj/public-forward-bot](https://github.com/Moksh-Bhardwaj/public-forward-bot)
 
-### 2023-03 (68)
+### 2023-03 (67)
 
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
@@ -945,7 +939,6 @@
 - [weekend-project-space/chatgpt-online](https://github.com/weekend-project-space/chatgpt-online) - chatgpt-online，一键部署你的 chatgpt 页面，无需翻墙
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [erbanku/erbanku](https://github.com/erbanku/erbanku) - Pursuing Fast, Efficient & Reliable Smart Software Solutions with Cutting-Edge Innovation.
-- [erbanku/magic-conch](https://github.com/erbanku/magic-conch) - A Telegram bot powered by Azure Cognitive Services
 - [xnth97/magic-conch](https://github.com/xnth97/magic-conch) - A Telegram bot powered by Azure Cognitive Services
 - [noobnooc/ebreader](https://github.com/noobnooc/ebreader) - A epub reader for browser
 - [noobnooc/ohmygpt](https://github.com/noobnooc/ohmygpt) - Deploy your ChatGPT-based web app in minutes.
@@ -1034,7 +1027,7 @@
 - [LUKE-ZZ/thuthesis-biomedical](https://github.com/LUKE-ZZ/thuthesis-biomedical) - 清华大学生物，医学，药学等相关专业的毕业论文latex模板。也适用于其他专业。适合本硕博毕业论文和博后报告。本模板在tuna协会的thuthesis项目基础上，增补了和生医药相关同学的内容，也增添了对latex新手更加友好的注释。
 - [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
-### 2023-01 (53)
+### 2023-01 (52)
 
 - [erdos-ai/r2](https://github.com/erdos-ai/r2) - ☁️ Command Line Interface for Cloudflare R2 Storage
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
@@ -1047,7 +1040,6 @@
 - [M3chD09/Cloudflare-Workers-E5Renew](https://github.com/M3chD09/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
 - [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
 - [vesoft-inc/github-statistics](https://github.com/vesoft-inc/github-statistics) - A react static app for displaying github repo statistics like Star History, Fork History and more.
-- [A95014/my-scripts](https://github.com/A95014/my-scripts)
 - [ghedamat/obsidian-save-as-gist](https://github.com/ghedamat/obsidian-save-as-gist)
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
 - [nilbuild/aws-cost-cli](https://github.com/nilbuild/aws-cost-cli) - CLI tool to perform cost analysis on your AWS account with Slack integration
@@ -1093,7 +1085,7 @@
 </details>
 
 <details>
-<summary>2022 (1011)</summary>
+<summary>2022 (1002)</summary>
 
 ### 2022-12 (29)
 
@@ -1176,12 +1168,11 @@
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 
-### 2022-10 (49)
+### 2022-10 (48)
 
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
 - [colinwjd/aria2-ariang](https://github.com/colinwjd/aria2-ariang) - Aria2 with Aira-Ng web UI
 - [AlistGo/docs](https://github.com/AlistGo/docs) - 📄 Documentation for alist v3: http://github.com/alist-org/alist
-- [erbanku/docs](https://github.com/erbanku/docs) - thu.wiki
 - [huo-ju/dfserver](https://github.com/huo-ju/dfserver) - A distributed backend AI pipeline server
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -1490,7 +1481,7 @@
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 
-### 2022-06 (83)
+### 2022-06 (79)
 
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝 ‎ A web-based notes app for developers.
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
@@ -1545,13 +1536,10 @@
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) - VS Code Localization Extension
 - [ZxfBugProgrammer/Electron-SIMGUI](https://github.com/ZxfBugProgrammer/Electron-SIMGUI) - 本项目是基于Electron和element UI开发的一款代码查重软件，其内核使用了SIM（SIM是Dick Grune开发的一款代码查重软件）
-- [erbanku/2022CPP](https://github.com/erbanku/2022CPP)
-- [erbanku/c-plus-plus](https://github.com/erbanku/c-plus-plus) - Tsinghua C++ 2022 Homework
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
 - [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux&win服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：
-- [erbanku/seafile-server-installer](https://github.com/erbanku/seafile-server-installer) - Script collection to setup production-ready Seafile server installations with HTTPS
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [mangecoeur/AcademicMarkdown](https://github.com/mangecoeur/AcademicMarkdown) - Extensions to MarkdownEditing for writing academic papers
@@ -1561,7 +1549,6 @@
 - [ros-drivers/usb_cam](https://github.com/ros-drivers/usb_cam) - A ROS Driver for V4L2 USB Cameras
 - [linuxkerneltravel/linux_kernel_wiki](https://github.com/linuxkerneltravel/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
-- [erbanku/CPPBankManagement](https://github.com/erbanku/CPPBankManagement)
 - [CMiksche/gitea-auto-update](https://github.com/CMiksche/gitea-auto-update) - A script which can update gitea via crontab automatically to a new version.
 - [lanbugs/gitea_installer](https://github.com/lanbugs/gitea_installer) - Install script for GITEA
 - [lzh12139/cpp-big-homework](https://github.com/lzh12139/cpp-big-homework) - c++大作业
@@ -1659,7 +1646,7 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
-### 2022-04 (194)
+### 2022-04 (191)
 
 - [microsoft/vscode-markdown-tm-grammar](https://github.com/microsoft/vscode-markdown-tm-grammar) - VS Code built-in markdown extension's Textmate grammar
 - [GeekTG/Friendly-Telegram](https://github.com/GeekTG/Friendly-Telegram) - Best Telegram userbot with inline buttons support
@@ -1796,7 +1783,6 @@
 - [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [asottile/all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
-- [erbanku/ghorg](https://github.com/erbanku/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [charleswan/vscode-extensions](https://github.com/charleswan/vscode-extensions) - A collection of delicious Visual Studio Code extensions recipes https://marketplace.visualstudio.com/publishers/CharlesWan
@@ -1817,7 +1803,6 @@
 - [xuehu54321/awesome-music-for-programming](https://github.com/xuehu54321/awesome-music-for-programming) - Awesome music for programming. 编程时的好听音乐，一起来分享你在编程时听的音乐！
 - [Mahesh0253/Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot) - Inline bot for channels and groups
 - [Mahesh0253/GPlink-bot](https://github.com/Mahesh0253/GPlink-bot)
-- [A95014/onedrive-apps-folder](https://github.com/A95014/onedrive-apps-folder) - PTS Files
 - [OBKoro1/web-basics](https://github.com/OBKoro1/web-basics) - 大厂前端需要掌握的JS基础能力，大厂场景题、大厂面试真题欢迎提issue和PR来丰富场景题。
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -1849,7 +1834,6 @@
 - [CryogenicPlanet/cryogenicplanet.github.io](https://github.com/CryogenicPlanet/cryogenicplanet.github.io) - Personal Space on the web
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-- [erbanku/learn-git-the-not-so-super-hard-way](https://github.com/erbanku/learn-git-the-not-so-super-hard-way)
 - [ZenithalHourlyRate/learn-git-the-not-so-super-hard-way](https://github.com/ZenithalHourlyRate/learn-git-the-not-so-super-hard-way)
 - [theimpactfulcompany/Rise-Media-Player](https://github.com/theimpactfulcompany/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
@@ -2073,7 +2057,7 @@
 - [lammps/lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
-### 2022-01 (66)
+### 2022-01 (65)
 
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [Websoft9Archive/ansible-nextcloud](https://github.com/Websoft9Archive/ansible-nextcloud) - Automatic installation for Nextcloud on Linux（Nextcloud自动安装程序）
@@ -2120,7 +2104,6 @@
 - [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 - [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 - [pengchujin/v2rayDocker](https://github.com/pengchujin/v2rayDocker) - 一键v2ray ws + tls 方便就完事了
-- [A95014/markdown-notes](https://github.com/A95014/markdown-notes) - This notes should be private
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
 - [fslongjin/My-Easy-Pic-Bed](https://github.com/fslongjin/My-Easy-Pic-Bed) - 一个轻量级的图床程序
@@ -2145,9 +2128,9 @@
 </details>
 
 <details>
-<summary>2021 (493)</summary>
+<summary>2021 (483)</summary>
 
-### 2021-12 (124)
+### 2021-12 (120)
 
 - [szenius/set-timezone](https://github.com/szenius/set-timezone) - GitHub action to set timezone in your locale, works with Linux, Windows, MacOS
 - [liudaolunboluo/WxChatRecordTool](https://github.com/liudaolunboluo/WxChatRecordTool) - 微信聊天记录小工具
@@ -2174,7 +2157,6 @@
 - [leohku/andure](https://github.com/leohku/andure) - DevTools for Android Chrome — works on any website, on any Chromium browser.
 - [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版 阿里云盘PC版 aliyundriver
-- [erbanku/weather-forecast-bot](https://github.com/erbanku/weather-forecast-bot)
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [bmjcode/pywebarchive](https://github.com/bmjcode/pywebarchive) - Software for reading Apple's webarchive format
@@ -2196,7 +2178,6 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [waykom/weibo_top](https://github.com/waykom/weibo_top) - 爬取微博热搜
 - [vmp65l3/weibo-hotrank](https://github.com/vmp65l3/weibo-hotrank) - 微博热搜记录并生成每日词云图
-- [erbanku/picx-image-hosting](https://github.com/erbanku/picx-image-hosting) - Personal image hosting repository, please do not fork or download, thanks~
 - [zisen123/TrierVosPhotos](https://github.com/zisen123/TrierVosPhotos) - 将您从iPhone导出的照片与影片以日期和时间的格式重命名并转移到以日期分类的文件夹中
 - [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 - [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader) - 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
@@ -2225,8 +2206,6 @@
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [githubtraining/introduction-to-github](https://github.com/githubtraining/introduction-to-github) - Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
-- [erbanku/treehollow-backend](https://github.com/erbanku/treehollow-backend) - T大树洞 的Golang后端
-- [erbanku/webhole](https://github.com/erbanku/webhole) - THU Hole react frontend
 - [URenko/Accesser](https://github.com/URenko/Accesser) - 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST
 - [Actions-R-Us/actions-tagger](https://github.com/Actions-R-Us/actions-tagger) - A meta-action to keep your action versions up-to-date :rocket:
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -2274,7 +2253,7 @@
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
-### 2021-11 (86)
+### 2021-11 (85)
 
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [b3by/atom-clock](https://github.com/b3by/atom-clock) - Place a clock or calendar in your status bar
@@ -2315,7 +2294,6 @@
 - [genzj/pybingwallpaper](https://github.com/genzj/pybingwallpaper) - Download wallpaper from bing.com
 - [elementary/wallpapers](https://github.com/elementary/wallpapers) - Collection of wallpapers for elementary OS
 - [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
-- [erbanku/github-notion-star](https://github.com/erbanku/github-notion-star) - Sync GitHub Starred Repositories to Notion Database
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [woider/PythonExercise](https://github.com/woider/PythonExercise) - Python 编程练习题 100 例（源码），实例在 Python 3.6 环境下测试通过。
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
@@ -2363,7 +2341,7 @@
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 
-### 2021-10 (201)
+### 2021-10 (200)
 
 - [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -2517,7 +2495,6 @@
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [pyatyispyatil/github-releases-notify-bot](https://github.com/pyatyispyatil/github-releases-notify-bot) - Allows you to receive notifications of new releases of software on GitHub in Telegram
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [erbanku/google_keep_takeout](https://github.com/erbanku/google_keep_takeout) - Export your Google Keep notes to a markdown file
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
@@ -2567,7 +2544,7 @@
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [ffffffff0x/Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - Information Protection & OSINT resources | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
 
-### 2021-09 (13)
+### 2021-09 (12)
 
 - [OverTheWallNode/SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash) - 2026 科学上网，ss, ssr, v2ray, trojan, clash, clashr，翻墙机场推荐
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
@@ -2581,7 +2558,6 @@
 - [expressvpn/lightway-core](https://github.com/expressvpn/lightway-core) - Lightway Core is a modern VPN protocol by ExpressVPN, to deliver a VPN experience that’s faster, more secure, and more reliable.
 - [misitebao/yakia](https://github.com/misitebao/yakia) - Yakia is a developer helper.
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-- [erbanku/YesPlayMusic](https://github.com/erbanku/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 ### 2021-08 (9)
 
@@ -2622,9 +2598,8 @@
 - [aashutoshrathi/py-scripts](https://github.com/aashutoshrathi/py-scripts) - These are daily life scripts for windows users to make their day easy.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
-### 2021-06 (14)
+### 2021-06 (13)
 
-- [erbanku/czkawka](https://github.com/erbanku/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [Cat-China/CatBrowser](https://github.com/Cat-China/CatBrowser) - 猫猫浏览器 - 完全自主研发，打破国外（美帝）对浏览器市场的垄断，比 Chrome 快 600%。
@@ -2650,7 +2625,7 @@
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
-### 2021-04 (13)
+### 2021-04 (12)
 
 - [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) - M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 - [thuservices/thuservices](https://github.com/thuservices/thuservices) - https://thu.services
@@ -2664,11 +2639,6 @@
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 - [dylanyang17/TsinghuaBookCrawler](https://github.com/dylanyang17/TsinghuaBookCrawler) - 清华教参平台爬虫
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
-- [erbanku/erbanku.com](https://github.com/erbanku/erbanku.com) - Server files for erbanku.com
-
-### 2021-03 (1)
-
-- [erbanku/web-design-homework](https://github.com/erbanku/web-design-homework)
 
 </details>
 

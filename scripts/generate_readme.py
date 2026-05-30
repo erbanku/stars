@@ -92,7 +92,7 @@ def render_month_section(
     heading_level: int,
 ) -> None:
     heading = "#" * heading_level
-    lines.extend([f"{heading} {month}", ""])
+    lines.extend([f"{heading} {month} ({len(month_stars)})", ""])
     for star in sorted(month_stars, key=lambda item: item["starred_at"], reverse=True):
         lines.append(format_repo_line(star))
     lines.append("")

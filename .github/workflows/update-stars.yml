@@ -1,40 +1,40 @@
 name: update stars
 
 on:
-  workflow_dispatch:
-    inputs:
-      custom_message:
-        description: Custom commit message
-        required: false
-        default: Stars update by GitHub Actions
-  schedule:
-    - cron: "0 */16 * * *"
+    workflow_dispatch:
+        inputs:
+            custom_message:
+                description: Custom commit message
+                required: false
+                default: Stars update by GitHub Actions
+    schedule:
+        - cron: "0 */16 * * *"
 
 permissions:
-  contents: write
+    contents: write
 
 jobs:
-  update-stars:
-    name: update stars readme
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    update-stars:
+        name: update stars readme
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
 
-      - uses: erbanku/action-stars@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          include-license-footer: "true"
+            - uses: erbanku/action-stars-next@v1
+              with:
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  include-license-footer: "true"
 
-      - name: Commit and push
-        env:
-          MESSAGE: ${{ inputs.custom_message || 'Stars update by GitHub Actions' }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git commit -m "$MESSAGE"
-          git push
+            - name: Commit and push
+              env:
+                  MESSAGE: ${{ inputs.custom_message || 'Stars update by GitHub Actions' }}
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git add README.md
+                  if git diff --cached --quiet; then
+                    echo "No changes to commit"
+                    exit 0
+                  fi
+                  git commit -m "$MESSAGE"
+                  git push

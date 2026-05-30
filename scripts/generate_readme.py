@@ -17,7 +17,7 @@ from pathlib import Path
 GITHUB_API = "https://api.github.com/user/starred"
 ACCEPT_HEADER = "application/vnd.github.v3.star+json"
 PER_PAGE = 100
-DEFAULT_ACTION_URL = "https://github.com/erbanku/action-stars"
+DEFAULT_ACTION_URL = "https://github.com/erbanku/action-stars-next"
 LICENSE_FOOTER = """## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -36,7 +36,7 @@ def fetch_starred(token: str) -> list[dict]:
             headers={
                 "Accept": ACCEPT_HEADER,
                 "Authorization": f"Bearer {token}",
-                "User-Agent": "erbanku-action-stars",
+                "User-Agent": "erbanku-action-stars-next",
             },
         )
 

@@ -18,6 +18,11 @@ GITHUB_API = "https://api.github.com/user/starred"
 ACCEPT_HEADER = "application/vnd.github.v3.star+json"
 PER_PAGE = 100
 DEFAULT_ACTION_URL = "https://github.com/erbanku/action-stars"
+LICENSE_FOOTER = """## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [erbanku](https://github.com/erbanku) has waived all copyright and related or neighboring rights to this work."""
 
 
 def fetch_starred(token: str) -> list[dict]:
@@ -135,6 +140,9 @@ def build_readme(stars: list[dict]) -> str:
         for month in year_months:
             render_month_section(lines, month, grouped[month], heading_level=3)
         lines.extend(["</details>", ""])
+
+    if os.environ.get("INCLUDE_LICENSE_FOOTER", "false").lower() == "true":
+        lines.extend(["", LICENSE_FOOTER, ""])
 
     return "\n".join(lines).rstrip() + "\n"
 

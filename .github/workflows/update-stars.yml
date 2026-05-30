@@ -23,6 +23,7 @@ jobs:
       - uses: erbanku/action-stars@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          include-license-footer: "true"
 
       - name: Commit and push
         env:

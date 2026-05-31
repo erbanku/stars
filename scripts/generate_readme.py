@@ -15,6 +15,7 @@ from pathlib import Path
 
 
 GITHUB_API = "https://api.github.com/user/starred"
+PUBLIC_GITHUB_API_TEMPLATE = "https://api.github.com/users/{username}/starred"
 ACCEPT_HEADER = "application/vnd.github.v3.star+json"
 PER_PAGE = 100
 DEFAULT_ACTION_URL = "https://github.com/erbanku/action-stars-next"
@@ -25,12 +26,17 @@ LICENSE_FOOTER = """## License
 To the extent possible under law, [erbanku](https://github.com/erbanku) has waived all copyright and related or neighboring rights to this work."""
 
 
-def fetch_starred(token: str) -> list[dict]:
+def fetch_starred(token: str, username: str | None = None) -> list[dict]:
     stars: list[dict] = []
     page = 1
+    api_base = (
+        PUBLIC_GITHUB_API_TEMPLATE.format(username=username)
+        if username
+        else GITHUB_API
+    )
 
     while True:
-        url = f"{GITHUB_API}?per_page={PER_PAGE}&page={page}"
+        url = f"{api_base}?per_page={PER_PAGE}&page={page}"
         request = urllib.request.Request(
             url,
             headers={
@@ -152,10 +158,11 @@ def main() -> int:
     if not token:
         print("GITHUB_TOKEN is required", file=sys.stderr)
         return 1
+    username = os.environ.get("GITHUB_USERNAME") or os.environ.get("GITHUB_ACTOR")
 
     output = Path(os.environ.get("OUTPUT_PATH", "README.md"))
 
-    stars = fetch_starred(token)
+    stars = fetch_starred(token, username)
     readme = build_readme(stars)
     output.write_text(readme, encoding="utf-8")
     print(

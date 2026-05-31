@@ -27,6 +27,7 @@ jobs:
             - name: Generate README
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  GITHUB_USERNAME: ${{ github.repository_owner }}
                   OUTPUT_PATH: README.md
                   INCLUDE_LICENSE_FOOTER: "true"
               run: python scripts/generate_readme.py

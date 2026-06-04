@@ -101,7 +101,7 @@
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 
-## 2026-04 (46)
+## 2026-04 (45)
 
 - [EryouHao/graker-release](https://github.com/EryouHao/graker-release)
 - [wrongly-cuddly-obsession/NTSB_FOIA_MU5735](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735)
@@ -144,7 +144,6 @@
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
 - [titanwings/ex-skill](https://github.com/titanwings/ex-skill) - 致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
-- [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) - 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
 - [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.
@@ -814,7 +813,7 @@
 - [OrangeX4/cheatsheets](https://github.com/OrangeX4/cheatsheets) - OrangeX4's cheatsheets website.
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 🔠Foreign language reading and translation assistant based on copy and translate.
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
-- [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
+- [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 中文频道、群组与机器人精选索引，结合自动化抓取与人工整理，支持在线搜索与分类浏览。
 - [scomper/cf-openai-azure-proxy](https://github.com/scomper/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 
@@ -2193,7 +2192,7 @@
 - [zisen123/TrierVosPhotos](https://github.com/zisen123/TrierVosPhotos) - 将您从iPhone导出的照片与影片以日期和时间的格式重命名并转移到以日期分类的文件夹中
 - [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 - [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader) - 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
-- [whitejoce/Get_Weather](https://github.com/whitejoce/Get_Weather) - 通过获取IP定位，爬取当地的天气（不需要API）
+- [whitejoce/Get_Weather](https://github.com/whitejoce/Get_Weather) - 基于中国天气网与和风天气公开数据的 Python 天气查询工具。支持自动定位、指定城市查询、实时天气输出、气象预警展示及 Skill 集成。
 - [up2b/pyup2b](https://github.com/up2b/pyup2b) - Image Uploader.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 - [algolia/awesome-algolia](https://github.com/algolia/awesome-algolia) - 🔍👋 START HERE! A curated list of Algolia libraries, resources and projects.

@@ -1553,7 +1553,7 @@
 - [wenzewoo/jetbrains-markdown-image-support](https://github.com/wenzewoo/jetbrains-markdown-image-support) - Markdown editor one click upload image support is applicable to common products of JetBrains series. Markdown编辑器一键上传图片支持，适用于Jetbrains系列的常见产品。
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [soumyajit4419/Chatify](https://github.com/soumyajit4419/Chatify) - Personal Chat Room or Workspace to share resources and hangout with friends build with React.js, Material-UI, and Firebase.
-- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Open Design
+- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Open Canvas
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 - [lostintangent/gitdoc](https://github.com/lostintangent/gitdoc) - VS Code extension that allows you to edit a Git repo, like it's a multi-file, versioned document.
 - [pissang/little-big-city](https://github.com/pissang/little-big-city)

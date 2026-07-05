@@ -89,7 +89,7 @@
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) - The best place to build with your AI sub
 - [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [GetBindu/Bindu](https://github.com/GetBindu/Bindu) - Bindu: The identity, communication, and payments layer for AI agents.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [FredAntB/Spec-Driven-Development](https://github.com/FredAntB/Spec-Driven-Development) - A Claude skill that keeps your AI coding tools from contradicting each other. Generates requirements.md, design.md, and tasks.md before any code is written — then creates matching config files for Claude Code, Cursor, Copilot, Windsurf, and Aider.
@@ -2041,7 +2041,7 @@
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 - [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
 - [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - 🌱 My digital vihāra, built by me.

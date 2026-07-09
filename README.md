@@ -112,7 +112,7 @@
 - [referodesign/refero_skill](https://github.com/referodesign/refero_skill) - Research-first design skill for AI agents. 150K+ real app screens and flows via Refero MCP.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop companion platform with animated pets, Plugin SDK v3, official plugins, and optional local coding-agent integrations.
-- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
+- [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [HamedBabaei/LLMs4OL](https://github.com/HamedBabaei/LLMs4OL) - LLMs4OL:‌ Large Language Models for Ontology Learning
 - [github/app](https://github.com/github/app) - The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
 - [IvanWng97/TradingAgents-Telegram](https://github.com/IvanWng97/TradingAgents-Telegram) - Telegram bot wrapping TradingAgents — chat-driven watchlist with parallel multi-ticker analysis, cancellation, and Telegraph reports.

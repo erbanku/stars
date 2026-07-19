@@ -329,7 +329,7 @@
 - [project-epb/flaredrive-rev](https://github.com/project-epb/flaredrive-rev) - ✨ Get your own free cloud storage (image hosting) with 10 Gb free space ☁️ Cloud-native S3-compatible bucket manager built on Cloudflare Workers.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [clouvet/sprite-mobile](https://github.com/clouvet/sprite-mobile) - A PWA chat UI for accessing Claude Code on a Sprite
 - [xmtggh/VideoCalling](https://github.com/xmtggh/VideoCalling) - 局域网p2p视频聊天
 - [ray-project/llmperf](https://github.com/ray-project/llmperf) - LLMPerf is a library for validating and benchmarking LLMs

@@ -15,7 +15,7 @@
 - [hailaobao2026/codex_Autoplus](https://github.com/hailaobao2026/codex_Autoplus) - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通codex-Plus
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-- [chenyme/grok2api](https://github.com/chenyme/grok2api) - 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
+- [chenyme/grok2api](https://github.com/chenyme/grok2api) - Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills
 - [marlkiller/VirtualLocation](https://github.com/marlkiller/VirtualLocation) - macOS 上模拟 iOS 设备定位的工具，支持 普通模式 (DVT) 和 代理模式 (MITM) 两种方案。
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
@@ -2060,7 +2060,7 @@
 - [cxumol/URLinkCat](https://github.com/cxumol/URLinkCat) - URL Link Catalog, lightweight multi-user cloud bookmark app running on serverless platform, made for speed and easy-to-use
 - [axipo/TrafficBlackhole](https://github.com/axipo/TrafficBlackhole) - network quality & proxy service bench
 - [bestxtools/weekly-cn](https://github.com/bestxtools/weekly-cn) - 发现并分享有趣，有创意，免费、好用的工具，每周四发布。
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [ros/ros](https://github.com/ros/ros) - Core ROS packages
 - [hellokaton/profit](https://github.com/hellokaton/profit) - 🤔 biezhi 在线打赏系统，开启你的要饭生涯。
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)

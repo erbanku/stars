@@ -1219,7 +1219,7 @@
 ### 2022-11 (46)
 
 - [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源笔记模板，一键部署个人知识库和博客 | 开源工具、效率方法、心理学探索的自我提升笔记
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -2301,7 +2301,7 @@
 - [URenko/Accesser](https://github.com/URenko/Accesser) - 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST
 - [Actions-R-Us/actions-tagger](https://github.com/Actions-R-Us/actions-tagger) - A meta-action to keep your action versions up-to-date :rocket:
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)
+- [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/forum/). Last free version for commercial use: https://github.com/hkneptune/FreeFileSync/releases/tag/v12.5

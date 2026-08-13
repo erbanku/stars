@@ -15,7 +15,7 @@
 - [zgiai/zgi](https://github.com/zgiai/zgi) - ZGI is an open-source platform for building AI applications. Its intuitive interface combines workflow design, agent orchestration, dataset management, and model integration—allowing you to quickly move from prototype to production.
 - [Hsiifu3/clash-verge-skill](https://github.com/Hsiifu3/clash-verge-skill) - CLI skill to control Clash Verge Rev via mihomo API - proxy groups, node switching, delay testing, connections, DNS
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. https://qm.ycombinator.com
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [petergyang/human-review](https://github.com/petergyang/human-review) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾

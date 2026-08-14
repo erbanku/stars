@@ -2597,7 +2597,7 @@
 - [ciscolxh/aliyunshare](https://github.com/ciscolxh/aliyunshare) - 让阿里云盘可以分享所有的文件
 - [lekoOwO/short-link-bot](https://github.com/lekoOwO/short-link-bot) - A telegram short link bot hosting onCloudflare Workers powered by short.io
 - [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
-- [Mrvishal2k2/TG-ShortLinkBot](https://github.com/Mrvishal2k2/TG-ShortLinkBot) - An simple url shortener bot which uses api of bit.ly
+- [mrvishal2k2/TG-ShortLinkBot](https://github.com/mrvishal2k2/TG-ShortLinkBot) - An simple url shortener bot which uses api of bit.ly
 - [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features

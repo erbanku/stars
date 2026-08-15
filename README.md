@@ -122,7 +122,7 @@
 - [CareyWang/MyUrls](https://github.com/CareyWang/MyUrls) - Your Own URL Shortener
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [Neighbor-Z/DiskIcicle](https://github.com/Neighbor-Z/DiskIcicle) - (Maybe) the first disk usage visualizer for iOS. (and macOS support)
-- [Villoh/tunnel-agent](https://github.com/Villoh/tunnel-agent) - Use your OAuth subscriptions or API keys in any coding agent, Factory Droid, Cursor, and more. Tunnel Agent handles provider authentication and routes requests through CLIProxyAPI.
+- [Villoh/tunnel-agent](https://github.com/Villoh/tunnel-agent) - Use your OAuth subscriptions or API keys in any coding agent, Factory Droid, Cursor, and more. Tunnel Agent handles provider authentication and routes requests through CLIProxyAPI or 9Router.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [RobertTLange/headless-cli](https://github.com/RobertTLange/headless-cli) - One unified CLI for headless coding agent execution 🤖

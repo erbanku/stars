@@ -287,7 +287,7 @@
 - [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor) - Monitor anything in real time
 - [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) - 获取微信4.0版本以上数据库密钥和图片密钥的工具 | A tool for obtaining database keys and image keys for WeChat versions 4.0 and above
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
-- [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
+- [vercel-labs/lat.md](https://github.com/vercel-labs/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [Railly/agentfiles](https://github.com/Railly/agentfiles) - Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 12 coding tools — from Obsidian.
 - [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 - [cursor/plugin-template](https://github.com/cursor/plugin-template)
@@ -296,7 +296,7 @@
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [fregante/chrome-webstore-upload-keys](https://github.com/fregante/chrome-webstore-upload-keys) - Guide and OAuth helper to generate keys for Chrome Extensions upload
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative, where YOU own what you type on your keyboard.
 - [uwussimo/repo.chrome](https://github.com/uwussimo/repo.chrome) - browse repos you have visited using simple repo & tab.
 - [antelle/generate-ip-cert](https://github.com/antelle/generate-ip-cert) - Script for generating a self-signed certificate for an IP address

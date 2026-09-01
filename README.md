@@ -210,7 +210,7 @@
 - [erbanku/dify-workflow-batch-export](https://github.com/erbanku/dify-workflow-batch-export)
 - [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs) - A Dumb WhoIs
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [Y-ASLant/ElegantClipboard](https://github.com/Y-ASLant/ElegantClipboard) - An elegant and fast clipboard. 低占用、高性能、现代化、高度自定义，本地化离线剪贴板。
 - [linear/linear-release](https://github.com/linear/linear-release) - CLI to automatically track releases in Linear
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
@@ -327,7 +327,7 @@
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
-- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [enactic/openarm_hardware](https://github.com/enactic/openarm_hardware) - OpenArm CAD data and information for manufacturing
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub)
 - [Yevanchen/human-in-the-loop-in-dify](https://github.com/Yevanchen/human-in-the-loop-in-dify) - human in the loop in dify workflow by plugin
@@ -1002,7 +1002,7 @@
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [evildevill/Article-Summarizer](https://github.com/evildevill/Article-Summarizer) - Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries
 - [eideehi/sd-webui-better-prompt](https://github.com/eideehi/sd-webui-better-prompt) - Stable Diffusion web UI extension that provides a better UI for prompt editing.
-- [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
+- [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source, tool-augmented conversational language model from Fudan University
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
@@ -2064,7 +2064,7 @@
 - [yinchengtsinghua/IPFS-Golang-China](https://github.com/yinchengtsinghua/IPFS-Golang-China) - 清华尹成定制翻译版ipfs
 - [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [lalakii/MouseClickTool](https://github.com/lalakii/MouseClickTool) - 简单好用的鼠标连点器，体积小巧，性能好好的~鼠标连点器。当前版本体积16KB，在线版(minimal)体积仅5KB。https://mouseclicktool.sourceforge.io
+- [lalakii/MouseClickTool](https://github.com/lalakii/MouseClickTool) - 简单好用的鼠标连点器，体积小巧，性能好好的~鼠标连点器。当前版本体积18KB，在线版(minimal)体积仅5KB。
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.

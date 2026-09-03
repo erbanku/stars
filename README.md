@@ -1239,7 +1239,7 @@
 </details>
 
 <details>
-<summary>2022 (996)</summary>
+<summary>2022 (995)</summary>
 
 ### 2022-12 (29)
 
@@ -1714,7 +1714,7 @@
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [erbanku/tpnm-thu](https://github.com/erbanku/tpnm-thu) - 2022 Technology And Practice Of Non-conventional Machining Course Raspberry Pi Workspace Files (Team Hello World)
 
-### 2022-05 (79)
+### 2022-05 (78)
 
 - [robopeak/rplidar_ros](https://github.com/robopeak/rplidar_ros)
 - [Zenquan/learnCode](https://github.com/Zenquan/learnCode) - 方便学习的代码仓库
@@ -1757,7 +1757,6 @@
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
-- [Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) - 最优雅的跨平台代理客户端，支持Shadowsocks(R)，V2Ray和Trojan协议。The most elegant cross-platform proxy GUI client that supports Shadowsocks(R), V2Ray, and Trojan. Built with Qt5 and QML2.
 - [wulabing/V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey)
 - [master-coder-ll/v2ray-web-manager](https://github.com/master-coder-ll/v2ray-web-manager) - v2ray-web-manager 是一个v2ray的面板，也是一个集群的解决方案；同时增加了流量控制/账号管理/限速等功能。key: admin , panel ,web,cluster,集群,proxy
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本

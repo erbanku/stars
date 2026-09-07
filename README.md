@@ -28,7 +28,7 @@
 - [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 - [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
 - [bhimrazy/receipt-ocr](https://github.com/bhimrazy/receipt-ocr) - An efficient OCR engine for receipt image processing.
-- [what1f/kitter](https://github.com/what1f/kitter) - A local-first Skill manager: one library, only what each project needs.
+- [what1f/kitter](https://github.com/what1f/kitter) - A simple, lightweight Skill manager built in Rust. One library, just the Skills each project needs.
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [hardbeat920/monocode](https://github.com/hardbeat920/monocode) - A GUI for your coding agents
 - [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
@@ -461,7 +461,7 @@
 
 - [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl) - Transform Web Content into LLM-Ready Data
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-- [inulute/freedium-app](https://github.com/inulute/freedium-app) - Medium Unlocker (now Freedium App) is an android app designed to access Medium, NYT, Bloomberg, Washington Post, Financial Times, The Economist articles without any paywalls.
+- [inulute/freedium-app](https://github.com/inulute/freedium-app) - Medium Unlocker (now Freedium App) is an android app designed to access Medium, NYT, Bloomberg, Washington Post, Financial Times, Reuters, The Economist articles without any paywalls.
 - [Tongyi-MAI/MAI-UI](https://github.com/Tongyi-MAI/MAI-UI) - Qwen-UI-Agent: Towards Next-Generation Real-World Centric Foundation GUI Agent
 - [FunnyWolf/agentic-soc-platform](https://github.com/FunnyWolf/agentic-soc-platform) - Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric automated security operations platform (AI SOC)
 - [lexmin0412/dify-app-hub](https://github.com/lexmin0412/dify-app-hub) - 一个 Dify 应用管理平台，基于 Dify API 构建，提供深度优化的用户端交互界面，支持 Chatflow、Workflow 等多种 Dify 应用类型，适配深度思考、思维链、图表渲染、文件处理等丰富的 AI 输出形式，提供开箱即用的 AI 应用解决方案。

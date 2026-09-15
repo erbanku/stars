@@ -108,7 +108,7 @@
 
 - [Edgaras0x4E/paddleocr-pdf-api](https://github.com/Edgaras0x4E/paddleocr-pdf-api) - A self-hosted PDF OCR API that converts scanned documents to markdown. Powered by PaddleOCR-VL, runs on GPU via Docker.
 - [MingGH/demo-mock-server](https://github.com/MingGH/demo-mock-server) - A collection of technical demonstrations that explain programming concepts, algorithmic principles, and mathematical problems in daily life in a visual and interactive way. 一个技术演示合集，用可视化和交互的方式解释编程概念、算法原理和生活中的数学问题。
-- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
+- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.

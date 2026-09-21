@@ -125,7 +125,7 @@
 - [georgmangold/console](https://github.com/georgmangold/console) - Console is a Admin UI for MinIO® Object Storage Server :desktop_computer:
 - [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
 - [GoJam11/LLMRelayService](https://github.com/GoJam11/LLMRelayService)
-- [luizbizzio/local-https](https://github.com/luizbizzio/local-https) - 🔒 Local Root CA and auto-renewed HTTPS certificates for private networks and services.
+- [luizbizzio/local-https](https://github.com/luizbizzio/local-https) - 🔒 Automatic local HTTPS for Pi-hole, Technitium DNS, Tailscale and homelabs. Local Root CA, trusted certificates, auto-renewal and deployment.
 - [cursor/minisqlite](https://github.com/cursor/minisqlite)
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 - [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - 整理并设计仓库 README，让项目价值、真实案例、安装方式与使用边界更容易理解。

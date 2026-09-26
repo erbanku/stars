@@ -254,7 +254,7 @@
 - [achingono/ms-todo-cli](https://github.com/achingono/ms-todo-cli) - OpenClaw CLI client for Microsoft Todo
 - [referodesign/refero_skill](https://github.com/referodesign/refero_skill) - Research-first design skill for AI agents. 150K+ real app screens and flows via Refero MCP.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
+- [OpenPetsHQ/openpets](https://github.com/OpenPetsHQ/openpets) - Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [HamedBabaei/LLMs4OL](https://github.com/HamedBabaei/LLMs4OL) - LLMs4OL:‌ Large Language Models for Ontology Learning
 - [github/app](https://github.com/github/app) - The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
@@ -421,7 +421,7 @@
 - [Yeuolir/dify-plugin-imagetool](https://github.com/Yeuolir/dify-plugin-imagetool) - An image generation plugin for the Dify platform, supporting text-to-image conversion, sketch refinement, and automated creative poster generation.
 - [hitechbeijing/dify-plugin-tools-html-exporter](https://github.com/hitechbeijing/dify-plugin-tools-html-exporter) - 用于将llm生成的html代码转为docx文档
 - [kraten/terminal-resume](https://github.com/kraten/terminal-resume) - Showcasing resume in terminal style 💻
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [kurokobo/psdify](https://github.com/kurokobo/psdify) - PSDify: A PowerShell module for workspace management for Dify, featuring various cmdlets for managing Apps, Knowledges, Models, and Members, etc.
 - [Lapis0x0/VermilionVoid](https://github.com/Lapis0x0/VermilionVoid) - 朱墨留白｜VermilionVoid｜我的个人博客框架
 - [Lapis0x0/VLMClassifier](https://github.com/Lapis0x0/VLMClassifier) - 一个基于VLM的图片分类程序

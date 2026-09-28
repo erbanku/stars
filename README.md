@@ -52,7 +52,7 @@
 - [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 - [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
 - [bhimrazy/receipt-ocr](https://github.com/bhimrazy/receipt-ocr) - An efficient OCR engine for receipt image processing.
@@ -119,7 +119,7 @@
 - [Tongyi-MAI/Qwen-UI-Agent](https://github.com/Tongyi-MAI/Qwen-UI-Agent)
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 
-## 2026-07 (45)
+## 2026-07 (44)
 
 - [Edgaras0x4E/paddleocr-pdf-api](https://github.com/Edgaras0x4E/paddleocr-pdf-api) - A self-hosted PDF OCR API that converts scanned documents to markdown. Powered by PaddleOCR-VL, runs on GPU via Docker.
 - [MingGH/demo-mock-server](https://github.com/MingGH/demo-mock-server) - A collection of technical demonstrations that explain programming concepts, algorithmic principles, and mathematical problems in daily life in a visual and interactive way. 一个技术演示合集，用可视化和交互的方式解释编程概念、算法原理和生活中的数学问题。
@@ -133,7 +133,6 @@
 - [georgmangold/console](https://github.com/georgmangold/console) - Console is a Admin UI for MinIO® Object Storage Server :desktop_computer:
 - [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
 - [GoJam11/LLMRelayService](https://github.com/GoJam11/LLMRelayService)
-- [luizbizzio/local-https](https://github.com/luizbizzio/local-https) - 🔒 Automatic local HTTPS for Pi-hole, Technitium DNS, Tailscale and homelabs. Local Root CA, trusted certificates, auto-renewal and deployment.
 - [cursor/minisqlite](https://github.com/cursor/minisqlite)
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 - [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - 整理并设计仓库 README，让项目价值、真实案例、安装方式与使用边界更容易理解。

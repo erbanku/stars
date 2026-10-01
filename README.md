@@ -1839,7 +1839,7 @@
 - [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
 - [GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension) - Add handy buttons like beautify, show opened files, save, toggle terminal, etc to the editor menu bar in VSCode. You can also create your own buttons with custom commands. VSCode Marketplace link: https://marketplace.visualstudio.com/items?itemName=jerrygoyal.shortcut-menu-bar
 - [zhaofeng-shu33/THU-coursework-template](https://github.com/zhaofeng-shu33/THU-coursework-template) - THU coursework template, intended user: Mathematics, Physics, Electronic Engineering, Mechanics and Computer Science
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ### 2022-04 (190)
@@ -2084,7 +2084,7 @@
 - [surajjjjjj/Telegram-automatic-message](https://github.com/surajjjjjj/Telegram-automatic-message) - A python script using the telethon library to simply send messages to a bot every 30 seconds
 - [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - [Does not work anymore!] Script to enable systemd support on current Ubuntu WSL2 images
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [Robpayot/risograph-grain-shader](https://github.com/Robpayot/risograph-grain-shader) - Light grain shader codrops tutorial
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.

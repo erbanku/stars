@@ -6,12 +6,11 @@
 
 - [frank890417/taiwan-md](https://github.com/frank890417/taiwan-md) - 🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan
 
-## 2026-09 (61)
+## 2026-09 (60)
 
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
 - [TanStack/markdown](https://github.com/TanStack/markdown) - Tiny, fast Markdown parsing and rendering for blogs and documentation
 - [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
-- [mandipadk/parallex](https://github.com/mandipadk/parallex) - Run multiple fully isolated instances of any macOS app — each with its own Dock icon, its own data, and its own settings
 - [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
 - [harrymunro/jev-laya-benchmark](https://github.com/harrymunro/jev-laya-benchmark) - Speed and accuracy benchmark: TypeSafe's Jev API vs the local Laya MLX typed-decision model on synthetic tasks
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.

@@ -58,7 +58,7 @@
 - [JOTO-AI/SchemaRAG-dify-plugin](https://github.com/JOTO-AI/SchemaRAG-dify-plugin) - a schema rag builder plugin for dify
 - [langgenius/remotifyd](https://github.com/langgenius/remotifyd) - Open-sourced remote device management daemon designed for AI Agents.
 - [langgenius/mosoo-website](https://github.com/langgenius/mosoo-website) - Landing page; Blog; Api reference; etc.
-- [langgenius/mosoo](https://github.com/langgenius/mosoo) - The open-source Agent Gallery and Gateway for Codex, Claude Agent SDK, and OpenCode. Developers publish an Agent once behind one HTTP API; users run it in an isolated cloud sandbox—no local harness setup, compute, or runtime infrastructure.
+- [langgenius/mosoo](https://github.com/langgenius/mosoo) - Open-source managed runtime for OpenAI Codex, Claude Agent SDK, OpenCode, and Pi Agent. Run coding agents through one Agents API with isolated cloud sandboxes, durable sessions, tool streaming, and managed files.
 - [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
@@ -2390,7 +2390,7 @@
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 - [algolia/awesome-algolia](https://github.com/algolia/awesome-algolia) - 🔍👋 START HERE! A curated list of Algolia libraries, resources and projects.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+- [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ 一款基于 GitHub API 开发的图床工具，提供图片上传托管和生成图片链接。
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [hunkim/digital-human](https://github.com/hunkim/digital-human)

@@ -9,7 +9,7 @@
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [Accademia/Additional_Rule_For_Clash](https://github.com/Accademia/Additional_Rule_For_Clash) - 🔴 🟡 🟢 Clash 分流规则 🟢 🟡 🔴 ，作为 blackmatrix7/ios_rule_script的补充规则。（Clash Routing Rules as a Supplement to blackmatrix7/ios_rule_script）
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) - Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.
 - [openai/math](https://github.com/openai/math)
 - [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) - 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具
@@ -2811,7 +2811,7 @@
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
-- [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Don't like how a website looks? Change it.
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [fan123199/v2ex-simple](https://github.com/fan123199/v2ex-simple) - A simple 3rd-party Android app for v2ex
 - [Trinkle23897/learn2018-autodown](https://github.com/Trinkle23897/learn2018-autodown) - 清华大学新版网络学堂课程自动下载脚本 / A python script to clone all files from learn.tsinghua.edu.cn

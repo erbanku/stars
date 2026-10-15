@@ -351,7 +351,7 @@
 - [Haleclipse/codex](https://github.com/Haleclipse/codex) - Lightweight coding agent that runs in your terminal
 - [Loongphy/codext](https://github.com/Loongphy/codext) - An opinionated Codex CLI with better DX
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
-- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills AI assistants can run.
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 - [KirinJin2046/trump-skill](https://github.com/KirinJin2046/trump-skill)
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
@@ -388,7 +388,7 @@
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [fregante/chrome-webstore-upload-keys](https://github.com/fregante/chrome-webstore-upload-keys) - Guide and OAuth helper to generate keys for Chrome Extensions upload
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative, where YOU own what you type on your keyboard.
 - [uwussimo/repo.chrome](https://github.com/uwussimo/repo.chrome) - browse repos you have visited using simple repo & tab.
 - [antelle/generate-ip-cert](https://github.com/antelle/generate-ip-cert) - Script for generating a self-signed certificate for an IP address
@@ -1304,7 +1304,7 @@
 </details>
 
 <details>
-<summary>2022 (994)</summary>
+<summary>2022 (993)</summary>
 
 ### 2022-12 (29)
 
@@ -1859,7 +1859,7 @@
 - [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
-### 2022-04 (190)
+### 2022-04 (189)
 
 - [microsoft/vscode-markdown-tm-grammar](https://github.com/microsoft/vscode-markdown-tm-grammar) - VS Code built-in markdown extension's Textmate grammar
 - [GeekTG/Friendly-Telegram](https://github.com/GeekTG/Friendly-Telegram) - Best Telegram userbot with inline buttons support
@@ -2045,7 +2045,6 @@
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [CryogenicPlanet/cryogenicplanet.github.io](https://github.com/CryogenicPlanet/cryogenicplanet.github.io) - Personal Space on the web
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [ZenithalHourlyRate/learn-git-the-not-so-super-hard-way](https://github.com/ZenithalHourlyRate/learn-git-the-not-so-super-hard-way)
 - [theimpactfulcompany/Rise-Media-Player](https://github.com/theimpactfulcompany/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
@@ -2323,7 +2322,7 @@
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 - [sjlleo/VerifyDisneyPlus](https://github.com/sjlleo/VerifyDisneyPlus) - 一个检测出口IP是否解锁DisneyPlus的脚本
 - [iBug/iBug-source](https://github.com/iBug/iBug-source) - Source of my website
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 571 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 572 颗 ★
 - [weakish/gister](https://github.com/weakish/gister) - command line tool to sync github gists
 - [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily. Based on GitHub Gists or GitLab snippets Infrastructure which means you can use all your existing snippets by connecting your GitHub/GitLab account!
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray

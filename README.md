@@ -93,7 +93,7 @@
 - [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) - 分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
 - [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.
 - [felinics/Memoh](https://github.com/felinics/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.
-- [unifyai/unify-agent](https://github.com/unifyai/unify-agent)
+- [unifyai/unify-agent](https://github.com/unifyai/unify-agent) - A self-improving agent harness for research on how an assistant learns tasks and skills
 - [dosu-ai/better-stale-bot](https://github.com/dosu-ai/better-stale-bot) - AI-powered stale issue bot built with GitHub Agentic Workflows
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [makeplane/plane-mcp-server](https://github.com/makeplane/plane-mcp-server) - Plane's Official Model Context Protocol Server 🔌 ⌨️ 🔥
@@ -138,7 +138,7 @@
 - [Tongyi-MAI/Qwen-UI-Agent](https://github.com/Tongyi-MAI/Qwen-UI-Agent)
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 
-## 2026-07 (44)
+## 2026-07 (45)
 
 - [Edgaras0x4E/paddleocr-pdf-api](https://github.com/Edgaras0x4E/paddleocr-pdf-api) - A self-hosted PDF OCR API that converts scanned documents to markdown. Powered by PaddleOCR-VL, runs on GPU via Docker.
 - [MingGH/demo-mock-server](https://github.com/MingGH/demo-mock-server) - A collection of technical demonstrations that explain programming concepts, algorithmic principles, and mathematical problems in daily life in a visual and interactive way. 一个技术演示合集，用可视化和交互的方式解释编程概念、算法原理和生活中的数学问题。
@@ -152,6 +152,7 @@
 - [georgmangold/console](https://github.com/georgmangold/console) - Console is a Admin UI for MinIO® Object Storage Server :desktop_computer:
 - [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
 - [GoJam11/LLMRelayService](https://github.com/GoJam11/LLMRelayService)
+- [luizbizzio/local-https](https://github.com/luizbizzio/local-https) - 🔒 Automatic local HTTPS for Pi-hole, Technitium DNS, Tailscale and homelabs. Local Root CA, trusted certificates, auto-renewal and deployment.
 - [cursor/minisqlite](https://github.com/cursor/minisqlite)
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 - [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - README design skill for Claude Code & Codex. 帮你把 GitHub README 做得好看又好懂。
@@ -795,7 +796,7 @@
 </details>
 
 <details>
-<summary>2024 (116)</summary>
+<summary>2024 (117)</summary>
 
 ### 2024-12 (4)
 
@@ -928,7 +929,7 @@
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
-### 2024-01 (18)
+### 2024-01 (19)
 
 - [liaoliao666/v2ex](https://github.com/liaoliao666/v2ex) - V2EX 好看的第三方客户端，原生 App，支持夜间模式。
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
@@ -944,6 +945,7 @@
 - [hyoban/kirika](https://github.com/hyoban/kirika) - A simple tool to convert your notes between different platforms
 - [maxujie/awesome-tsinghua](https://github.com/maxujie/awesome-tsinghua) - 与清华大学 (Tsinghua University) 相关的有趣 repo 整合
 - [summivox/thucal2](https://github.com/summivox/thucal2) - Tsinghua University curriculum -> iCalendar format (.ics) -> Google Calendar, etc.
+- [liu-ziting/PetThoughts](https://github.com/liu-ziting/PetThoughts) - I know what your pet is thinking - gemini
 - [wozulong/ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper) - 一个简单的Chrome插件，用来帮助你登录ChatGPT。
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
@@ -1314,7 +1316,7 @@
 - [dtysky/Awaken](https://github.com/dtysky/Awaken) - 一个基于WebDAV的全平台EPUB阅读器，支持笔记、进度、书签同步，支持Kindle笔记导入。
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast async download tool for bilibili and more
-- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 自托管的抖音、TikTok 数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline speech-to-text for downloaded videos. Self-healing identity pool, PostgreSQL archive, one docker compose up.
+- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline speech-to-text for downloaded videos. Self-healing identity pool, PostgreSQL archive, one docker compose up.
 - [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool.
 - [Didnelpsun/Math](https://github.com/Didnelpsun/Math) - 考研数学，数学一，包括高等数学、线性代数、概率统计

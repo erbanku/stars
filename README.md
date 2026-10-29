@@ -82,7 +82,7 @@
 - [what1f/kitter](https://github.com/what1f/kitter) - A simple, lightweight Skill manager built in Rust. One library, just the Skills each project needs.
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [hardbeat920/monocode](https://github.com/hardbeat920/monocode) - A GUI for your coding agents
-- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Open-source (Apache-2.0) orchestrator for Claude Code, Codex & 30+ coding agents. Plan, run and supervise agent teams from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.
+- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps. Supports Claude Code, Codex & 35+ coding agents.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
@@ -1367,7 +1367,7 @@
 - [QianyanTech/Image-Downloader](https://github.com/QianyanTech/Image-Downloader) - Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
 - [anerg2046/Caddy_V2ray](https://github.com/anerg2046/Caddy_V2ray) - Caddy V2ray SSL TLS Websocket 整合Docker镜像
 - [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - This is the repo for our new project Highly Accurate Dichotomous Image Segmentation
-- [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
+- [meta/sapling](https://github.com/meta/sapling) - A Scalable, User-Friendly Source Control System.
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 - [haiwen/seafile-admin-docs](https://github.com/haiwen/seafile-admin-docs)
@@ -1565,7 +1565,7 @@
 - [yusukebe/r2-image-worker](https://github.com/yusukebe/r2-image-worker) - Store and Deliver images with R2 backend Cloudflare Workers.
 - [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, customizable Hugo theme
-- [alcor/emoji-supply](https://github.com/alcor/emoji-supply) - Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen
+- [arfct/emoji-supply](https://github.com/arfct/emoji-supply) - Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️ A command-line system information tool written in bash 3.2+
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
@@ -1589,7 +1589,7 @@
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [openbiox/weekly](https://github.com/openbiox/weekly) - 本项目已经完成历史想法与期待，停止更新，感谢所有的读者！
 - [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [next-terminal/next-terminal](https://github.com/next-terminal/next-terminal) - A simple, secure, easy-to-use bastion and session auditing system. Supports RDP, SSH, VNC, Telnet, HTTP, records and replays sessions for auditing and compliance.

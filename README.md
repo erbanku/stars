@@ -293,7 +293,7 @@
 - [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [erbanku/dify-workflow-batch-export](https://github.com/erbanku/dify-workflow-batch-export)
 - [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs) - A Dumb WhoIs
@@ -2327,7 +2327,7 @@
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 - [sjlleo/VerifyDisneyPlus](https://github.com/sjlleo/VerifyDisneyPlus) - 一个检测出口IP是否解锁DisneyPlus的脚本
 - [iBug/iBug-source](https://github.com/iBug/iBug-source) - Source of my website
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 573 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 574 颗 ★
 - [weakish/gister](https://github.com/weakish/gister) - command line tool to sync github gists
 - [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily. Based on GitHub Gists or GitLab snippets Infrastructure which means you can use all your existing snippets by connecting your GitHub/GitLab account!
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray

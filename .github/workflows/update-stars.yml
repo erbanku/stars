@@ -1,14 +1,14 @@
 name: update stars
 
 on:
-    workflow_dispatch:
-        inputs:
-            custom_message:
-                description: Custom commit message
-                required: false
-                default: Stars update by GitHub Actions
-    schedule:
-        - cron: "0 */16 * * *"
+  workflow_dispatch:
+    inputs:
+      custom_message:
+        description: Custom commit message
+        required: false
+        default: Stars update by GitHub Actions
+  schedule:
+    - cron: "0 */16 * * *"
 
 permissions:
     contents: write

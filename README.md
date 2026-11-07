@@ -401,7 +401,7 @@
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [fregante/chrome-webstore-upload-keys](https://github.com/fregante/chrome-webstore-upload-keys) - Guide and OAuth helper to generate keys for Chrome Extensions upload
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative, where YOU own what you type on your keyboard.
 - [uwussimo/repo.chrome](https://github.com/uwussimo/repo.chrome) - browse repos you have visited using simple repo & tab.
 - [antelle/generate-ip-cert](https://github.com/antelle/generate-ip-cert) - Script for generating a self-signed certificate for an IP address

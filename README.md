@@ -111,7 +111,7 @@
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [neo4j-examples/rag-demo](https://github.com/neo4j-examples/rag-demo)
 - [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) - Memory that AI Agents Love!
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [narrowin/awesome-generative-ui](https://github.com/narrowin/awesome-generative-ui) - A curated list of resources for AI-generated user interfaces — systems where LLMs dynamically create, compose, and render UI components.
 - [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build great interfaces.
@@ -499,7 +499,7 @@
 - [zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Rex, Nushell etc.
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Rex terminal, Nushell, Neovim nightly etc.
 - [DEKVIW/prompt-manager](https://github.com/DEKVIW/prompt-manager) - 一个用于创建、管理和共享 AI 提示词的平台，支持多用户协作、版本控制和分类管理。
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)

@@ -503,7 +503,7 @@
 - [qoomon/starlines](https://github.com/qoomon/starlines) - Create beautiful stargazers histograms of your repositories and gists
 - [notedit/happy-skills](https://github.com/notedit/happy-skills) - happy skills
 - [zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Rex terminal, Nushell, Neovim nightly etc.
 - [DEKVIW/prompt-manager](https://github.com/DEKVIW/prompt-manager) - 一个用于创建、管理和共享 AI 提示词的平台，支持多用户协作、版本控制和分类管理。
@@ -1140,7 +1140,7 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [noobnooc/agent](https://github.com/noobnooc/agent) - My profile & the agent skills I created
 - [receyuki/stable-diffusion-prompt-reader](https://github.com/receyuki/stable-diffusion-prompt-reader) - A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
-- [Moksh-Bhardwaj/public-forward-bot](https://github.com/Moksh-Bhardwaj/public-forward-bot)
+- [MokshBhardwajOfficial/public-forward-bot](https://github.com/MokshBhardwajOfficial/public-forward-bot)
 
 ### 2023-03 (67)
 

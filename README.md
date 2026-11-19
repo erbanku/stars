@@ -136,7 +136,7 @@
 - [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) - Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 800+ integrations
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 2000+ integrations
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
 - [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - Agent Plugins — An open standard for packaging agent extensions as distributable plugins
 - [inbjo/MirrorProxy](https://github.com/inbjo/MirrorProxy) - All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, developer-tool distribution services, and operating system mirrors.
@@ -167,7 +167,7 @@
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inline-script scanning, CI scan mode, and explain mode; works with Claude Code, Codex, Gemini, Copilot, Cursor, and more.
-- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
+- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是最专业的英语精听 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动你把每一段音频练懂、练熟、练到会说。
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [joeynyc/Grok-UI](https://github.com/joeynyc/Grok-UI) - Local-first live command center for Grok Build — runtime, ACP control, session history, and Git changes.
 - [georgmangold/console](https://github.com/georgmangold/console) - Console is a Admin UI for MinIO® Object Storage Server :desktop_computer:
@@ -316,7 +316,7 @@
 - [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs) - A Dumb WhoIs
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
-- [Y-ASLant/ElegantClipboard](https://github.com/Y-ASLant/ElegantClipboard) - An elegant and fast clipboard. 低占用、高性能、现代化、高度自定义，本地化离线剪贴板。
+- [Y-ASLant/ElegantClipboard](https://github.com/Y-ASLant/ElegantClipboard) - An elegant and fast clipboard. 低占用、高性能、现代化、优雅、高度自定义，本地化离线剪贴板。
 - [linear/linear-release](https://github.com/linear/linear-release) - CLI to automatically track releases in Linear
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [allenGKC/ai-product-research](https://github.com/allenGKC/ai-product-research)

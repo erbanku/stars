@@ -318,7 +318,7 @@
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [erbanku/dify-workflow-batch-export](https://github.com/erbanku/dify-workflow-batch-export)
 - [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs) - A Dumb WhoIs
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [Y-ASLant/ElegantClipboard](https://github.com/Y-ASLant/ElegantClipboard) - An elegant and fast clipboard. 低占用、高性能、现代化、优雅、高度自定义，本地化离线剪贴板。
 - [linear/linear-release](https://github.com/linear/linear-release) - CLI to automatically track releases in Linear
@@ -1557,7 +1557,7 @@
 - [233boy/tools](https://github.com/233boy/tools)
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/ossinsight
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard v4 官方文档（zh/en 双语）：Kuboard 是基于 Kubernetes 的微服务管理界面。本仓库为 v4 版本文档站源码，涵盖安装升级、集群管理、工作负载、网络、存储、Kuboard MCP 等。
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 
@@ -2083,7 +2083,7 @@
 - [AtomMaterialUI/iconGenerator](https://github.com/AtomMaterialUI/iconGenerator) - Icon Collection used within the Atom Material Icons plugins (for JetBrains, Chrome and Firefox)
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
-- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
+- [made-in-common/case-police](https://github.com/made-in-common/case-police) - 🚨 Make the case correct, PLEASE!
 - [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 - [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface

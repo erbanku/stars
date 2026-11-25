@@ -4,12 +4,12 @@
 
 ## 2026-11 (18)
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [ns2250225/filetime](https://github.com/ns2250225/filetime) - 单文件版本管理软件
 - [icloudza/caplo](https://github.com/icloudza/caplo) - macOS 屏幕录制工具
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
-- [0nelight/sutra-os](https://github.com/0nelight/sutra-os) - Scarce Units, Typed, Related, Actionable. An open-source, self-hosted ontology platform.
 - [harshsinghsv/swiftdl](https://github.com/harshsinghsv/swiftdl) - Fast, resumable download manager with a browser extension. Many connections per file, instant resume, IDM-style download windows. Rust + Tauri.
 - [AlephAITech/DoubaoWorkGuide](https://github.com/AlephAITech/DoubaoWorkGuide) - 豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。
 - [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.
@@ -280,7 +280,7 @@
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+ LLM/RL Algorithm Maps ）
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Native Linux desktop control for AI agents (MCP, Pi, CLI): semantic AT-SPI trees, screenshots, window targeting, and input across GNOME, KDE, Hyprland, niri, COSMIC, i3, Sway, labwc and other wlroots compositors, and X11.
-- [NVIDIA/skills](https://github.com/NVIDIA/skills) - Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.
+- [NVIDIA/skills](https://github.com/NVIDIA/skills) - Agent Skills and plugins for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.
 - [franklioxygen/MyTube](https://github.com/franklioxygen/MyTube) - Self-hosted downloader and player for YouTube, Bilibili, Twitch, MissAV, and yt-dlp sites. Features channel subscriptions, auto-downloads, and local storage for media. Organize your library into collections with a sleek UI. Includes built-in Cloudflare Tunnel support for secure remote access without port forwarding. Docker-ready deployment.
 - [meituan/MT-Paotui-For-Client](https://github.com/meituan/MT-Paotui-For-Client) - 直接调用美团跑腿接口，帮你下单完成帮取送、帮忙、帮买的跑腿需求。
 - [bytedance/Lance](https://github.com/bytedance/Lance) - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.
@@ -1328,7 +1328,7 @@
 </details>
 
 <details>
-<summary>2022 (992)</summary>
+<summary>2022 (991)</summary>
 
 ### 2022-12 (29)
 
@@ -2074,7 +2074,7 @@
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 
-### 2022-03 (120)
+### 2022-03 (119)
 
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
@@ -2091,7 +2091,6 @@
 - [mgedmin/ghcloneall](https://github.com/mgedmin/ghcloneall) - Script to clone/update all user/organization repos from GitHub
 - [aprescott/gist-backup](https://github.com/aprescott/gist-backup) - Back up all your public and private gist repositories.
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
-- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
 - [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
 - [Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray/xray多用户管理部署程序
 - [Jrohy/nodejs-install](https://github.com/Jrohy/nodejs-install) - 一键安装最新版nodejs
@@ -2345,7 +2344,7 @@
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 - [sjlleo/VerifyDisneyPlus](https://github.com/sjlleo/VerifyDisneyPlus) - 一个检测出口IP是否解锁DisneyPlus的脚本
 - [iBug/iBug-source](https://github.com/iBug/iBug-source) - Source of my website
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 576 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 577 颗 ★
 - [weakish/gister](https://github.com/weakish/gister) - command line tool to sync github gists
 - [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily. Based on GitHub Gists or GitLab snippets Infrastructure which means you can use all your existing snippets by connecting your GitHub/GitLab account!
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray

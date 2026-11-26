@@ -205,7 +205,7 @@
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 - [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) - Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest.
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1700+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [superhumancorp/r2drop](https://github.com/superhumancorp/r2drop) - R2 is a MacOS app the allows you to conveniently upload files to your Cloudflare R2 buckets
 - [rasbt/local-coding-agent-evals](https://github.com/rasbt/local-coding-agent-evals)

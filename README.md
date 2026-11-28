@@ -1741,7 +1741,7 @@
 - [diegomacario/Animation-Magic](https://github.com/diegomacario/Animation-Magic) - A cool visualization of all the math that powers 3D character animations.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
-- [fatalerror-i/ThuWordThesis](https://github.com/fatalerror-i/ThuWordThesis) - 清华大学学位论文Word模板。A Word thesis template for Tsinghua University.
+- [fatalerror-i/ThuWordThesis](https://github.com/fatalerror-i/ThuWordThesis) - 清华大学毕业论文Word模板。A Word thesis template for Tsinghua University.
 - [alick/thulib-latex-talk](https://github.com/alick/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿。后续更新：https://github.com/tuna/thulib-latex-talk
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿
 - [SAST-skill-docers/sast-skill-docs](https://github.com/SAST-skill-docers/sast-skill-docs) - SAST Skill Docs. We are paving the way for your CS studying.
